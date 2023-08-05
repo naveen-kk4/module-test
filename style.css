@@ -1,12 +1,13 @@
 body {
   font-family: Roboto, sans-serif;
 }
+
 nav > div {
   position: fixed;
-  top: 0;
+  top: 0px;
   z-index: 1;
   background-color: white;
-  height: 50px;
+  height: 40px;
 }
 
 nav {
